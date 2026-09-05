@@ -44,3 +44,7 @@ The valuation analysis was used to assess Tata Steel's estimated value relative 
 ## Key Takeaways
 
 The analysis indicated a recovery in Tata Steel's earnings and cash generation, while highlighting the importance of margin improvement, capital allocation, steel-price cyclicality and execution of planned capacity expansion.
+
+## Project File
+
+[Financial Analysis & Valuation Workbook](./Financial%20Analysis%20of%20Tata%20Steel.xlsx)
