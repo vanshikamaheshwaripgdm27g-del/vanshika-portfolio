@@ -16,6 +16,6 @@ The project covered project scheduling, resource allocation, risk management, pr
 - Project monitoring and control
 - Performance evaluation
 
-- ## Project Presentation
+## Project Presentation
 
-[View Project Presentation on Canva](YOUR-CANVA-VIEW-LINK)
+[View Project Presentation on Canva](https://canva.link/i7z1lr1mcylexvd)
