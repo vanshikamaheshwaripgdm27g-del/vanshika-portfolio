@@ -8,14 +8,14 @@ This portfolio showcases selected academic projects in financial analysis, FinTe
 
 ## Academic Projects
 
-### Tata Steel | Financial Analysis & Valuation
+### [Tata Steel | Financial Analysis & Valuation](./tata-steel/)
 
 Financial statement analysis, financial forecasting, DCF valuation and comparable-company valuation.
 
-### Hashflow | FinTech
+### [Hashflow | FinTech](./hashflow/)
 
 FinTech project exploring the application of digital financial solutions and the underlying business model.
 
-### E-Commerce Warehouse | Project Management
+### [E-Commerce Warehouse | Project Management](./e-commerce-warehouse/)
 
 End-to-end project planning covering scheduling, resource allocation, risk management and project performance evaluation.
