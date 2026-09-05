@@ -6,6 +6,8 @@
 
 This portfolio showcases selected academic projects in financial analysis, FinTech and project management.
 
+📄 [View Resume](./Vanshika_Maheshwari_Resume.pdf)
+
 ## Academic Projects
 
 ### [Tata Steel | Financial Analysis & Valuation](./tata-steel/)
